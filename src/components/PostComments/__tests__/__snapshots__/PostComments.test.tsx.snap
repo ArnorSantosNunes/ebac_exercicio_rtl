@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Teste para o componente PostComment Deve adicionar "estudar react" na lista 1`] = `
+<ul
+  class="post-comments"
+  data-testid="lista-completa"
+>
+  <li
+    class="post-comment"
+    data-testid="campo-lista"
+  >
+    <p
+      class="post-comment-content"
+    >
+      Comentário 1
+    </p>
+  </li>
+  <li
+    class="post-comment"
+    data-testid="campo-lista"
+  >
+    <p
+      class="post-comment-content"
+    >
+      Comentário 2
+    </p>
+  </li>
+</ul>
+`;
